@@ -1,0 +1,2 @@
+1. SQL in Pandas :
+https://pandas.pydata.org/pandas-docs/stable/comparison_with_sql.html
